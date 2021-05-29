@@ -1,0 +1,28 @@
+body{
+    background-color: #343f56;
+}
+
+.box{
+    height: 250px;
+    width: 225px;
+    background-color: #fb9300;
+    border-radius: 15px;
+    margin-top: 70px;
+}
+
+.content_margin{
+    padding-top: 40px;
+}
+.input_margin{
+    mar
+}
+.button{
+    background-color: #343f56;
+    border-radius: 5px;
+    color: #fff5b7;
+}
+
+.box:hover {
+    transform: scale(1.25);
+    transition-duration: .5s;
+}
